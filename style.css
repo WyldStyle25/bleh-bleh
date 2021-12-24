@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:rgb(0, 0, 0);
+    color: azure;
+  }
+  canvas{
+    border: 2px solid black;
+  }
+  h1{
+    font-family: 'Gemunu Libre', sans-serif;
+  }
+  h3{
+    font-family: 'Cabin', sans-serif;
+    line-height: 40px;
+  }
+  #Next{
+  background-color: rgb(10, 0, 0);
+  }
